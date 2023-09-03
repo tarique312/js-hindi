@@ -1,2 +1,2 @@
 # js-hindi
-A code repo for javascrdipt
+A code repo for javascript
